@@ -20,26 +20,31 @@ multifunctional passive components
 
 Skills
 ======
+
 **Circuits and Systems**
+
 Design, layout, and simulation of RF integrated circuits using Cadence Virtuoso, Keysight ADS, Ansys HFSS.
 
-**programming**
-Python, LaTeX, MATLAB, C/C++, Verilog.
+**Programming**
+
+Python, LaTeX, MATLAB, C/C++, Verilog, Skill.
 
 **Measurement Equipment**
+
 Vector network analyzer, spectrum analyzer, vector signal generator, power supply, arbitrary waveform generator, probe station.
 
 **languages**
+
 Mandarin (native), English (proficient), Cantonese (native).
 
 Publications
 ======
 
-- **Z. Chen**, Y. Wu&#42;, X. Chen, S. Zhen, and W. Wang, "A K-Band CMOS Filtering Power Amplifier Based on 4th-Order Band-Pass Transformer-Type Resonators", *International Conference on Microwave and Millimeter Wave Technology* (**ICMMT**), accepted, May 2025. (**Best Student Paper Award**)
+- **Z. Chen**, Y. Wu&#42;, X. Chen, S. Zhen, and W. Wang, "A K-Band CMOS Filtering Power Amplifier Based on 4th-Order Band-Pass Transformer-Type Resonators", *International Conference on Microwave and Millimeter Wave Technology* (**ICMMT**), accepted, May 2025. <font color='red'> **(Best Student Paper Award, 2nd Prize)** </font>
 
-- **Z. Chen**, Y. Wu&#42;, Y. Yang, W. Wang, "A novel unequal lumped-element coupler with arbitrary phase differences and arbitrary impedance matching", *IEEE Transactions on Circuits and Systems II: Express Briefs* (**TCAS-II**), vol. 69, no. 2, pp. 369-373, Feb. 2022. [[Paper]](https://doi.org/10.1109/tcsii.2021.3093528)
+- **Z. Chen**, Y. Wu&#42;, Y. Yang, W. Wang, "A novel unequal lumped-element coupler with arbitrary phase differences and arbitrary impedance matching", *IEEE Transactions on Circuits and Systems II: Express Briefs* (**TCAS-II**), vol. 69, no. 2, pp. 369-373, Feb. 2022. [[Link]](https://doi.org/10.1109/tcsii.2021.3093528) [[PDF]](files/2022-TCASII-CPLR.pdf)
 
-- **Z. Chen**, Y. Wu&#42;, W. Wang, "Synthesis of lumped-element dual-band bandpass filters with independently controllable bandwidth", *International Journal of RF and Microwave Computer-Aided Engineering*, vol. 32, no 5, e23076, May 2022. [[Paper]](https://doi.org/10.1002/mmce.23076)
+- **Z. Chen**, Y. Wu&#42;, W. Wang, "Synthesis of lumped-element dual-band bandpass filters with independently controllable bandwidth", *International Journal of RF and Microwave Computer-Aided Engineering*, vol. 32, no 5, e23076, May 2022. [[Link]](https://doi.org/10.1002/mmce.23076) [[PDF]](files/2022-IJMCE-DBPF.pdf)
 
 - X. Chen, Y. Wu&#42;, **Z. Chen**, M. Yang, S. Zhen, W. Wang, "Fully Integrated GaAs MMIC Bandpass Filtering Power Amplifier Chip With Compact Couple-Line-Based Matching Network", *IEEE Microwave and Wireless Technology Letters* (**MWTL**), early access, 2025. [[Paper]](https://doi.org/10.1109/lmwt.2025.3578722)
 
@@ -53,7 +58,7 @@ Publications
 
 Awards & Honors
 ======
-- Best Student Paper Award, ICMMT, 2025.
+- Best Student Paper Award (2nd Prize), ICMMT, 2025.
 - Xiaomi Scholarship, BUPT, 2022.
 - Outstanding Bachelor's Thesis Award, BUPT, 2021.
 
