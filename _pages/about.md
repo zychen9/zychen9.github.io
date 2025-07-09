@@ -12,7 +12,8 @@ I'm a xxxx year PhD undergraduate student from [School of Integrated Circuits](h
 Zhuoyin Chen received the B.S. degree in electronic information science and technology from Beijing University of Posts and Telecommunications (BUPT), Beijing, China, in 2021, where he is currently pursuing the Ph.D. degree in integrated circuit science and engineering.
 
 
-## Education
+<a id="Education"></a>
+Education
 ======
 
 **Ph.D. in Integrated Circuit Science and Engineering**  
@@ -46,7 +47,8 @@ Vector network analyzer, spectrum analyzer, vector signal generator, power suppl
 **languages**  
 Mandarin (native), English (proficient), Cantonese (native).
 
-## Publications
+<a id="Publications"></a>
+Publications
 ======
 
 Journal Articles
@@ -77,7 +79,8 @@ Patents
 - Y. Wu&#42;, **Z. Chen**, W. Chen, W. Wang, "A power amplifier and chip based on a new distributed structure",
 CN115765653A, 2023.
 
-## Awards
+<a id="Awards"></a>
+Awards
 ======
 - Best Student Paper Award (2nd Prize), ICMMT, 2025.
 - Top Cited Article, IJMCE, 2023.
