@@ -13,8 +13,7 @@ Zhuoyin Chen received the B.S. degree in electronic information science and tech
 
 
 <a id="Education"></a>
-Education
-======
+# Education
 
 **Ph.D. in Integrated Circuit Science and Engineering**  
 Beijing University of Posts and Telecommunications (BUPT), Beijing, China  
@@ -26,14 +25,13 @@ Beijing University of Posts and Telecommunications (BUPT), Beijing, China
 Sep 2021 - Aug 2023, Advisor: Prof. [Yongle Wu](https://teacher.bupt.edu.cn/wuyongle/en/index.htm)
 
 
-Research Interests
-======
+# Research Interests
+
 integrated microwave/millimeter-wave circuit and system design
 power amplifiers (PAs)
 multifunctional passive components
 
-Skills
-======
+# Skills
 
 **Circuits and Systems**   
 Design, layout, and simulation of RF integrated circuits using Cadence Virtuoso, Keysight ADS, Ansys HFSS.
@@ -48,11 +46,9 @@ Vector network analyzer, spectrum analyzer, vector signal generator, power suppl
 Mandarin (native), English (proficient), Cantonese (native).
 
 <a id="Publications"></a>
-Publications
-======
+# Publications
 
-Journal Articles
-------
+## Journal Articles
 
 - **Z. Chen**, Y. Wu&#42;, Y. Yang, W. Wang, "A novel unequal lumped-element coupler with arbitrary phase differences and arbitrary impedance matching", *IEEE Transactions on Circuits and Systems II: Express Briefs* (**TCAS-II**), vol. 69, no. 2, pp. 369-373, Feb. 2022. [[Link]](https://doi.org/10.1109/tcsii.2021.3093528) [[PDF]](files/2022-TCASII-CPLR.pdf)
 
@@ -68,20 +64,20 @@ Journal Articles
 
 - S. Li, Y. Wu&#42;, Y. Yang, X. Chen, W. Wang, **Z. Chen**, "Bandpass filtering power amplifier with wide stopband and high out-of-band rejection", *IEEE Transactions on Circuits and Systems II: Express Briefs* (**TCAS-II**), vol. 70, no. 3, pp. 969-973, Mar. 2023. [[Link]](https://doi.org/10.1109/tcsii.2022.3220619) [[PDF]](files/6th_2023-TCASII-FPA_PCB.pdf)
 
-Conference Papers
-------
+## Conference Papers
 
 - **Z. Chen**, Y. Wu&#42;, X. Chen, S. Zhen, W. Wang, "A K-Band CMOS Filtering Power Amplifier Based on 4th-Order Band-Pass Transformer-Type Resonators", *International Conference on Microwave and Millimeter Wave Technology* (**ICMMT**), accepted, May 2025. **<font color='red'>(Best Student Paper Award, 2nd Prize)</font>**
 
-Patents
-------
+## Patents
+
 
 - Y. Wu&#42;, **Z. Chen**, W. Chen, W. Wang, "A power amplifier and chip based on a new distributed structure",
 CN115765653A, 2023.
 
 <a id="Awards"></a>
-Awards
-======
+
+# Awards
+
 - Best Student Paper Award (2nd Prize), ICMMT, 2025.
 - Top Cited Article, IJMCE, 2023.
 - Xiaomi Scholarship, BUPT, 2022.
